@@ -1,5 +1,9 @@
+ main
 main
 #!/bin/bash\n echo "ALX school is so cool" 
+update_script
+#!/bin/bash\n echo "ALX School" 
+master
 
 i#!/bin/bash\n echo "ALX School" 
 master
